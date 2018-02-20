@@ -1,2 +1,1 @@
-# SRT411-Assignment-0
-SRT assignment 0
+The following assignment is a test to demonstrate the capabilities of R, by demonstrating diferent tasks known as "Todo's". This assignment was taken from https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
